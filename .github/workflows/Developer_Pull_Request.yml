@@ -1,4 +1,4 @@
-name: Developer_Pull_Request
+name: Developer_Branch_CI
 on:
   pull_request:
     branches:
