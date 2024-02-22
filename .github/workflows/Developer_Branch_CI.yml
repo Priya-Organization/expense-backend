@@ -16,11 +16,11 @@ jobs:
       - name: Integration Tests
         run: echo Integration Tests
 
-      - name: SAST Scans
-        run : echo SAST Scans
+#      - name: SAST Scans
+#       run : echo SAST Scans
 
-      - name: Detect Secrets in source code
-        run : echo Detect Secrets in source code
+#      - name: Detect Secrets in source code
+#       run : echo Detect Secrets in source code
 
       - name: Code Quality
         run: echo Code Quality
