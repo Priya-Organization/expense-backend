@@ -5,5 +5,5 @@ on:
       - 'XPNS-*'
 jobs:
   CI_Steps:
-   uses: github-actions/.github/workflows/Developer_Branch_CI.yml@main
+   uses: /Priya-Organization/github-actions/.github/workflows/Developer_Branch_CI.yml@main
 ####KKL
