@@ -5,6 +5,7 @@ on:
       - 'XPNS-*'
 jobs:
   CI_Steps:
-    run: echo $ {{ github.repository }}
-   # uses: Priya-Devops2023/Priya-Organization/github-actions/.github/workflows/Developer_Branch_CI.yml@main
+   path: Priya-Organization/github-actions/.github/workflows/
+
+   uses: Priya-Devops2023/Priya-Organization/github-actions/.github/workflows/Developer_Branch_CI.yml@main
 ####KKL
