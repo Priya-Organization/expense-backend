@@ -7,5 +7,5 @@ jobs:
   CI_Steps:
    path: Priya-Organization/github-actions/.github/workflows/
 
-   uses: Priya-Devops2023/Priya-Organization/github-actions/.github/workflows/Developer_Branch_CI.yml@main
+   uses: Priya-Organization/github-actions/.github/workflows/Developer_Branch_CI.yml@main
 ####KKL
